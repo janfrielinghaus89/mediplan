@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MEDIplan.Models.Doctor">
+    <Position X="1.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAQAQAAAACIAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Medication">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Medication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Order">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAJAAAAAQAAAEAAAAAAAAgAAAACAAQAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Patient">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAAAAAAAAAAAQAAEACAAQAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.User">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAACAAAgAAAAAAAACAQAAAAAAAAg=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Dosage">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAAQAAAEAAAAAAAAAAQAAAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>Models\Dosage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Inventory">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEAAAAAAAAAAQAAAAIAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Delivery">
+    <Position X="6" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACAQAAAEAABAAAAAAAAAAAAAAAAEAAggAACAA=</HashCode>
+      <FileName>Models\Delivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Ward">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Ward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MEDIplan.Models.Pharmacy">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAIAAAQAQAAAAAIAACAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Pharmacy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
