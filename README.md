@@ -1,4 +1,4 @@
-# mediplan - Deutsch
+# MEDIplan - Deutsch
 Medikamentenplaner für Medikamente nach dem BtMG
 
 Technische Grundlagen:
