@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using MEDIplan.Models;
 
 namespace MEDIplan.Models
 {
@@ -18,5 +19,7 @@ namespace MEDIplan.Models
         public DbSet<Dosage> Dosages { get; set; }
         public DbSet<Inventory> Inventories { get; set; }
         public DbSet<Pharmacy> Pharmacies { get; set; }
+        public DbSet<Ward> Wards { get; set; } = default!;
     }
 }
+    

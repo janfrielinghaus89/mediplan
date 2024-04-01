@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "E:\\Programming\\C#\\MEDIplan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\mediplan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:mediplan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\myclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:myclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\dosage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,32 +47,76 @@
       "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\controllers\\wardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:controllers\\wardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|e:\\programming\\c#\\mediplan\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\mediplan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:mediplan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\models\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:models\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\mediplan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:mediplan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|E:\\Programming\\C#\\MEDIplan\\myclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{F5CFE36D-79B8-42E6-9A26-9F59A0D732A5}|MEDIplan.csproj|solutionrelative:myclassdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,110 +126,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T22:26:57.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T10:04:25.08Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WardsController.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Controllers\\WardsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WardsController.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Controllers\\WardsController.cs",
+              "RelativeToolTip": "Controllers\\WardsController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwJkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:02:31.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:58:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T16:58:16.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyClassDiagram.cd",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\MyClassDiagram.cd",
-              "RelativeDocumentMoniker": "MyClassDiagram.cd",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\MyClassDiagram.cd",
-              "RelativeToolTip": "MyClassDiagram.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-03-28T21:06:15.363Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:57:40.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T15:40:52.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAswJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:18:28.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MEDIplan.csproj",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\MEDIplan.csproj",
-              "RelativeDocumentMoniker": "MEDIplan.csproj",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\MEDIplan.csproj",
-              "RelativeToolTip": "MEDIplan.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-28T19:58:23.129Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Index.cshtml",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T15:20:23.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Ward.cs",
               "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Ward.cs",
               "RelativeDocumentMoniker": "Models\\Ward.cs",
               "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Ward.cs",
               "RelativeToolTip": "Models\\Ward.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:30:31.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Pharmacy.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Pharmacy.cs",
-              "RelativeDocumentMoniker": "Models\\Pharmacy.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Pharmacy.cs",
-              "RelativeToolTip": "Models\\Pharmacy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:06:59.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "Models\\Inventory.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Inventory.cs",
-              "RelativeToolTip": "Models\\Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:06:48.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dosage.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Dosage.cs",
-              "RelativeDocumentMoniker": "Models\\Dosage.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Dosage.cs",
-              "RelativeToolTip": "Models\\Dosage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:06:47.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delivery.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Delivery.cs",
-              "RelativeDocumentMoniker": "Models\\Delivery.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Delivery.cs",
-              "RelativeToolTip": "Models\\Delivery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:06:46.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T13:47:40.578Z"
             },
             {
               "$type": "Document",
@@ -177,60 +247,234 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:50:27.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:50:14.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T13:47:35.188Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Medication.cs",
-              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Medication.cs",
-              "RelativeDocumentMoniker": "Models\\Medication.cs",
-              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Medication.cs",
-              "RelativeToolTip": "Models\\Medication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "Models\\Pharmacy.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "Models\\Pharmacy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:47:51.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T13:47:28.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Patient.cs",
               "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Models\\Patient.cs",
               "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Patient.cs",
               "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:47:38.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T13:47:23.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:47:17.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Medication.cs",
+              "RelativeDocumentMoniker": "Models\\Medication.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Medication.cs",
+              "RelativeToolTip": "Models\\Medication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:47:12.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:47:06.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dosage.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Dosage.cs",
+              "RelativeDocumentMoniker": "Models\\Dosage.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Dosage.cs",
+              "RelativeToolTip": "Models\\Dosage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:46:57.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:33:39.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:40:18.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Doctor.cs",
               "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Models\\Doctor.cs",
               "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Doctor.cs",
               "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:47:19.043Z",
+              "WhenOpened": "2024-03-29T13:46:50.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "Models\\Delivery.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\Delivery.cs",
+              "RelativeToolTip": "Models\\Delivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:46:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Details.cshtml",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T15:22:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MEDIplan.csproj",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\MEDIplan.csproj",
+              "RelativeDocumentMoniker": "MEDIplan.csproj",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\MEDIplan.csproj",
+              "RelativeToolTip": "MEDIplan.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T09:09:06.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Edit.cshtml",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T15:26:24.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Create.cshtml",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T15:24:10.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:05:48.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\Models\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContextFactory.cs",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\Models\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Models\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:06:18.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T10:42:49.224Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MEDIplan",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\MEDIplan.csproj",
+              "RelativeDocumentMoniker": "MEDIplan.csproj",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\MEDIplan.csproj",
+              "RelativeToolTip": "MEDIplan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T14:14:13.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyClassDiagram.cd",
+              "DocumentMoniker": "E:\\Programming\\C#\\MEDIplan\\MyClassDiagram.cd",
+              "RelativeDocumentMoniker": "MyClassDiagram.cd",
+              "ToolTip": "E:\\Programming\\C#\\MEDIplan\\MyClassDiagram.cd",
+              "RelativeToolTip": "MyClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-28T21:06:15.363Z"
             }
           ]
         }

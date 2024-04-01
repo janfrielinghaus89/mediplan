@@ -22,7 +22,7 @@ namespace MEDIplan.Models
         public int PatientId { get; set; } // From Patient.cs
 
         [Required]
-        public int MedicationId { get; set; }
+        public int MedicationId { get; set; } // From Medication.cs
 
         [Required]
         public int InventoryId { get; set; } // From Inventory.cs
